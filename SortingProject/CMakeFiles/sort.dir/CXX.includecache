@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasonbrown/Desktop/SortingProject/src/Sorting.cpp
+iostream
+-
+vector
+-
+ctime
+-
+random
+-
+Sorting.h
+/Users/jasonbrown/Desktop/SortingProject/src/Sorting.h
+
+/Users/jasonbrown/Desktop/SortingProject/src/Sorting.h
+iostream
+-
+vector
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasonbrown/Desktop/PA03_JasonBrown/src/proj3.cpp
+cstdlib
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+algorithm
+-
+random
+-
+ctime
+-
+chrono
+-
+

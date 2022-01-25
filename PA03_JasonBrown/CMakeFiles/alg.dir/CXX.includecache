@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasonbrown/Desktop/PA03_JasonBrown/src/sortingAlgos.cpp
+cstdlib
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+algorithm
+-
+random
+-
+ctime
+-
+chrono
+-
+

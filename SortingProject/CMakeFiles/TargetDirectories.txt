@@ -1,0 +1,8 @@
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/install/local.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/install/strip.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/install.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/rebuild_cache.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/edit_cache.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/sort.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/list_install_components.dir
+/Users/jasonbrown/Desktop/SortingProject/CMakeFiles/main.dir
